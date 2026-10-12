@@ -1,0 +1,4 @@
+com\medimatch\MedicineStandardizationServiceTest.class
+com\medimatch\FuzzyMatchingServiceTest.class
+com\medimatch\DuplicateDetectionServiceTest.class
+com\medimatch\MediMatchApplicationTests.class
